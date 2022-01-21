@@ -38,7 +38,7 @@
   "dependencies": {
     "chai": "^3.2.0",
     "hapi": "^8.6.1",
-    "log4js": "^0.6.26",
+    "log4js": "^6.4.0",
     "mocha": "^2.3.2",
     "mountebank": "^1.2.122",
     "request": "^2.61.0"
